@@ -12,3 +12,5 @@ Built with React and TailwindCSS
   <li>React-router-dom
   <li>TailwindCSS
 </ul>
+
+![routes](https://user-images.githubusercontent.com/82509653/218813542-8f79bd53-0654-4dcd-8ff3-b8da6006512c.png)
